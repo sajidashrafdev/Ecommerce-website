@@ -3,8 +3,6 @@
 A modern and responsive **E-commerce Website Frontend** built with **HTML, CSS, and JavaScript**.  
 This project showcases a stylish furniture store design with clean UI, product listings, and a minimal layout.  
 
-👉 **Live Demo:** [Furniro Ecommerce Website](https://github.com/sajidashrafdev/Ecommerce-website/tree/main)
-
 ---
 
 ## ✨ Features
@@ -15,14 +13,8 @@ This project showcases a stylish furniture store design with clean UI, product l
 - 📂 **Category Section** – Browse by categories like Dining, Living, and Bedroom.  
 - 📸 **Gallery Section** – Room inspirations with multiple layouts.  
 - 📧 **Form Page** – A functional frontend form for user interaction.  
-- ⚡ **Lightweight** – Built with pure HTML, CSS, and JavaScript.  
-
----
-
-## 🖼️ Preview
-
-![Website Screenshot](./_G__Html,%20CSS%20and%20Javascript_Ecomerce%20_Website_Index.html%20(1).png)  
-
+- ⚡ **Lightweight** – Built with pure HTML, CSS, and JavaScript.
+- 
 ---
 
 ## 📂 Project Structure
